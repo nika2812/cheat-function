@@ -1,4 +1,4 @@
-## cheat() function
+### cheat() function
 This is task 9 from Python assignment containing my cheat() function
 
 ### General information
@@ -7,7 +7,7 @@ Function tells the correct solutions for exercices Q1.2P.9, Q3.2P.1, Q3.2P.4 and
 "I don't know the answer"
 
 
-## Usage
+### Usage
 You write cheat() function and choose among following exercises: Q1.2P.9, Q3.2P.1, Q3.2P.4 and Q1.2P.7.
 For those four exercises you can get the correct code as an output
 
